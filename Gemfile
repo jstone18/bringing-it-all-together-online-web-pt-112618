@@ -8,3 +8,6 @@ gem 'rspec'
 
 # Debugging
 gem 'pry'
+
+# Misc
+gem 'require_all'
